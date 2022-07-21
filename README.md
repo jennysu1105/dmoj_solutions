@@ -3,6 +3,7 @@ Solutions to problems from DMOJ: Modern Online Judge
 
 | Contest | Name | Type | Difficulty | Score | Completed | My Solution | 
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: |
+| [CCC 2002 Junior #1](https://dmoj.ca/problem/ccc02j1) | 0123456789 | Implementation | 3 | 10/10 | 2022/07/21 | [py3]() |
 | [CCC 2016 Senior #1](https://dmoj.ca/problem/ccc16s1) | Ragaman | Implementation | 3 | 3/3 | 2019/02/19 | [py2](https://github.com/jennysu1105/dmoj_solutions/blob/afacd8a4a60a0256e52bfa7214379b7f0d6abfe5/py2/CCC_16_S1.py) |
 | [CCC 2016 Senior #2](https://dmoj.ca/problem/ccc16s2) | Tandem Bicycle | Greedy Algorithm + Implementation | 5 | 5/5 | 2019/02/19 | [py2](https://github.com/jennysu1105/dmoj_solutions/blob/afacd8a4a60a0256e52bfa7214379b7f0d6abfe5/py2/CCC_16_S2.py) |
 | [CCC 2016 Senior #3](https://dmoj.ca/problem/ccc16s3) | Phonomenal Reviews | Graph Theory | 15 | 9/15 | 2019/02/19 | [py2](https://github.com/jennysu1105/dmoj_solutions/blob/afacd8a4a60a0256e52bfa7214379b7f0d6abfe5/py2/CCC_16_S3.py) |
@@ -36,6 +37,7 @@ Solutions to problems from DMOJ: Modern Online Judge
 | [Another Random Contest 1 #2](https://dmoj.ca/problem/arc1p2) | Two Sequences | Ad Hoc | 7 | 0/100 (TLE) | 2022/06/29 | [py3](https://github.com/jennysu1105/dmoj_solutions/blob/afacd8a4a60a0256e52bfa7214379b7f0d6abfe5/py3/ARC_C1_P2.py) |
 | [Another Random Contest 1 #4](https://dmoj.ca/problem/arc1p4) | Bracket Query | Data Structures | 15 | 20/100 (TLE) | 2022/06/29 | [py3](https://github.com/jennysu1105/dmoj_solutions/blob/afacd8a4a60a0256e52bfa7214379b7f0d6abfe5/py3/ARC_C1_P4.py) |
 | [--](https://dmoj.ca/problem/helloworld) | Hello, World! | Implementation | 1 | 1/1 | 2022/02/18 | [py3](https://github.com/jennysu1105/dmoj_solutions/blob/afacd8a4a60a0256e52bfa7214379b7f0d6abfe5/py3/Hello_World.py) |
+| [--](https://dmoj.ca/problem/necroposting) | Necroposting | Implementation | 5 | 100/100 | 2022/07/21 | [py3]() |
 | [Valentine's Day 2019 Junior #1](https://dmoj.ca/problem/valentines19j1) | Rainbow Rating | Implementation | 3 | 10/10 | 2019/02/14 | [py2](https://github.com/jennysu1105/dmoj_solutions/blob/afacd8a4a60a0256e52bfa7214379b7f0d6abfe5/py2/Valentines_19_J1.py) |
 | [Valentine's Day 2019 Junior #2](https://dmoj.ca/problem/valentines19j2) | Pink! | Implementation | 3 | 100/100 | 2019/02/14 | [py2](https://github.com/jennysu1105/dmoj_solutions/blob/afacd8a4a60a0256e52bfa7214379b7f0d6abfe5/py2/Valentines_19_J2.py) |
 | [Valentine's Day 2019 Junior #5](https://dmoj.ca/problem/valentines19j5) | Falling in Love | Simple Math | 7 | 10/100 (TLE) | 2019/02/14 | [py2](https://github.com/jennysu1105/dmoj_solutions/blob/afacd8a4a60a0256e52bfa7214379b7f0d6abfe5/py2/Valentines_19_J5.py) |
