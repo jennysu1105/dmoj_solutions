@@ -36,8 +36,8 @@ Solutions to problems from DMOJ: Modern Online Judge
 | [Another Random Contest 1 #1](https://dmoj.ca/problem/arc1p1) | Chessgame | Implementation | 5 | 30/100 (TLE) | 2022/06/29 | [py3](https://github.com/jennysu1105/dmoj_solutions/blob/afacd8a4a60a0256e52bfa7214379b7f0d6abfe5/py3/ARC_C1_P1.py) |
 | [Another Random Contest 1 #2](https://dmoj.ca/problem/arc1p2) | Two Sequences | Ad Hoc | 7 | 0/100 (TLE) | 2022/06/29 | [py3](https://github.com/jennysu1105/dmoj_solutions/blob/afacd8a4a60a0256e52bfa7214379b7f0d6abfe5/py3/ARC_C1_P2.py) |
 | [Another Random Contest 1 #4](https://dmoj.ca/problem/arc1p4) | Bracket Query | Data Structures | 15 | 20/100 (TLE) | 2022/06/29 | [py3](https://github.com/jennysu1105/dmoj_solutions/blob/afacd8a4a60a0256e52bfa7214379b7f0d6abfe5/py3/ARC_C1_P4.py) |
-| [A Math Contest #2](https://dmoj.ca/problem/mathp2) | Subsequence Sum | | | 100/100 | 2022/07/21 | [py3]() |
-| [A Math Contest #7](https://dmoj.ca/problem/mathp7) | Factors | | | 0/100 (TLE) | 2022/07/21 | [py3]() |
+| [A Math Contest #2](https://dmoj.ca/problem/mathp2) | Subsequence Sum | | | 100/100 | 2022/07/21 | [py3](https://github.com/jennysu1105/dmoj_solutions/blob/a25d7bd7978e5be883945eb7878309f7988ea6e2/py3/AMC_P2.py) |
+| [A Math Contest #7](https://dmoj.ca/problem/mathp7) | Factors | | | 0/100 (TLE) | 2022/07/21 | [py3](https://github.com/jennysu1105/dmoj_solutions/blob/a25d7bd7978e5be883945eb7878309f7988ea6e2/py3/AMC_P7.py) |
 | [--](https://dmoj.ca/problem/helloworld) | Hello, World! | Implementation | 1 | 1/1 | 2022/02/18 | [py3](https://github.com/jennysu1105/dmoj_solutions/blob/afacd8a4a60a0256e52bfa7214379b7f0d6abfe5/py3/Hello_World.py) |
 | [--](https://dmoj.ca/problem/necroposting) | Necroposting | Implementation | 5 | 100/100 | 2022/07/21 | [py3](https://github.com/jennysu1105/dmoj_solutions/blob/c0d6813a4b5a15c61cf6dd9d54edbdc0abc27f00/py3/Necropost.py) |
 | [Valentine's Day 2019 Junior #1](https://dmoj.ca/problem/valentines19j1) | Rainbow Rating | Implementation | 3 | 10/10 | 2019/02/14 | [py2](https://github.com/jennysu1105/dmoj_solutions/blob/afacd8a4a60a0256e52bfa7214379b7f0d6abfe5/py2/Valentines_19_J1.py) |
