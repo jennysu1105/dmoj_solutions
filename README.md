@@ -5,6 +5,7 @@ Solutions to problems from DMOJ: Modern Online Judge
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: |
 | [AAC Contest 1 #1](https://dmoj.ca/problem/aac1p1) | Alpaca Shapes | Implementation + Simple Math | 3 | 100/100 | 2022/08/10 | [py3](https://github.com/jennysu1105/dmoj_solutions/blob/859717db64d02347924bb3c709429e851a542d45/py3/AAC_C1_P1.py) |
 | [AAC Contest 1 #2](https://dmoj.ca/problem/aac1p2) | Alpaca Racing | Implementation + Simple Math | 5 | 100/100 | 2022/08/11 | [py3](https://github.com/jennysu1105/dmoj_solutions/blob/859717db64d02347924bb3c709429e851a542d45/py3/AAC_C1_P2.py) |
+| [AAC Contest 1 #4](https://dmoj.ca/problem/aac1p4) | Alpaca Arrays | Implementation + Simple Math | 10 | 10/100 (TLE) | 2022/08/11 | [py3]() |
 | [CCC 2002 Junior #1](https://dmoj.ca/problem/ccc02j1) | 0123456789 | Implementation | 3 | 10/10 | 2022/07/21 | [py3](https://github.com/jennysu1105/dmoj_solutions/blob/c0d6813a4b5a15c61cf6dd9d54edbdc0abc27f00/py3/CCC_02_J1.py) |
 | [CCC 2016 Senior #1](https://dmoj.ca/problem/ccc16s1) | Ragaman | Implementation | 3 | 3/3 | 2019/02/19 | [py2](https://github.com/jennysu1105/dmoj_solutions/blob/afacd8a4a60a0256e52bfa7214379b7f0d6abfe5/py2/CCC_16_S1.py) |
 | [CCC 2016 Senior #2](https://dmoj.ca/problem/ccc16s2) | Tandem Bicycle | Greedy Algorithm + Implementation | 5 | 5/5 | 2019/02/19 | [py2](https://github.com/jennysu1105/dmoj_solutions/blob/afacd8a4a60a0256e52bfa7214379b7f0d6abfe5/py2/CCC_16_S2.py) |
